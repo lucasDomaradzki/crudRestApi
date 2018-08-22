@@ -10,3 +10,6 @@
 
 - **mongoose 4.13.9 -E**
 - **restify 6.3.4 -E**
+
+### To install run
+npm install
